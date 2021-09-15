@@ -19,31 +19,39 @@ About Task:-
 
 ### Home Page
 
-![image](https://user-images.githubusercontent.com/69417454/130090585-65901773-7c9b-4350-bbbb-4d2f4914d691.png)
+(![homepage1](https://user-images.githubusercontent.com/87903257/133400249-84c13d5d-7787-4564-b484-65433ece2859.png)
+)
 
 
-![image](https://user-images.githubusercontent.com/69417454/130091087-e309ab8f-b83e-4369-8cea-23089bd61885.png)
+(![homepage 2](https://user-images.githubusercontent.com/87903257/133400344-c7f9acad-0b0b-4455-b5ee-917e08fb63eb.png)
+)
 
 
 ### About Page
 
-![image](https://user-images.githubusercontent.com/69417454/130091497-d87e1cde-a54c-4e41-9a89-b0fb228069a2.png)
+(![about page1](https://user-images.githubusercontent.com/87903257/133400450-18fc1987-d721-4acd-9a0b-d0be4dafbf61.png)
+)
 
 ### Razorpay Payment Gateway 
 
-![image](https://user-images.githubusercontent.com/69417454/130091686-1dabaf67-40d2-4e35-894f-54c8866b9085.png)
+(![Rozar Payment gateway 1](https://user-images.githubusercontent.com/87903257/133400564-cf224ecd-62df-4098-a4ca-5bbddb643ef8.png)
+)
 
-![image](https://user-images.githubusercontent.com/69417454/130091883-d5dc4382-1a06-4eb6-9b18-61ec8e14babb.png)
+(![Rozar 2](https://user-images.githubusercontent.com/87903257/133400677-37617290-eaea-4098-8aed-0d8bf3a1daf8.png)
+)
+(![Rozar 3](https://user-images.githubusercontent.com/87903257/133400794-3b8d3dd7-3158-4a9f-9892-30073f90dbdd.png)
+)
 
-![image](https://user-images.githubusercontent.com/69417454/130091991-4d0996c7-c76a-496e-b994-0cdb73fbf115.png)
-
-![image](https://user-images.githubusercontent.com/69417454/130092149-9e267a38-1e53-4d13-9646-493bf65620fe.png)
+(![Rozar 4](https://user-images.githubusercontent.com/87903257/133400873-71896977-dfa3-428d-bfaa-37db7527416f.png)
+)
 
 
 ### Invoice Received At Gmail
 
-![image](https://user-images.githubusercontent.com/69417454/130092387-b98a6496-2c0d-485a-95d1-9b81a90183cb.png)
-
+(![mail](https://user-images.githubusercontent.com/87903257/133400969-64fef482-8cdf-4471-a4cc-fd952b68114e.png)
+)
+(![invoice recieved at gmail](https://user-images.githubusercontent.com/87903257/133401029-4ccf3fbd-f070-4221-b6a1-2db139560dd9.png)
+)
 
 
 
